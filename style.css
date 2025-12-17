@@ -1,0 +1,56 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px, auto;
+}
+
+.title {
+    border: solid red;
+    text-align: center;
+    background-color: brown;
+}
+
+.introduction {
+    border: solid red;
+    text-align: center;
+    margin: 10px;
+}
+
+.content {
+    border: solid orange;
+    margin: 10px;
+}
+
+.navigation {
+    border: double rebeccapurple;
+    margin: 10px;
+}
+
+img {
+    margin: 10px auto;
+    display: block;
+}
+
+a {
+    background-color: white;
+    border: 5px solid gray;
+}
+
+li {
+    border: dotted green;
+    margin: 10px;
+}
+
+h1 {
+    color: beige;
+}
+
+h2,
+h3,
+h4 {
+    color: green;
+    text-align: center;
+}
+
+h2 {
+    color: aqua;
+}
